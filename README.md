@@ -15,7 +15,7 @@
 
 
 ## Connect with Me 📬
-* 🐦 X
-* 📫 Email
-* 🔗 LinkedIn
+* 🐦 [X](https://x.com/xSSanDev) 
+* 📫 [Email](xssanass@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/anass-zeroual-b248841b5/)
  
