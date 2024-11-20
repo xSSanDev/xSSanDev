@@ -8,3 +8,15 @@
 * Frameworks & Libraries: Django REST Framework
 * Tools & Platforms: GitHub, Git, Linux, Prompt Engineering (AI)
 
+
+
+
+
+
+
+## Connect with Me 📬
+
+* 🐦 https://x.com/xSSanDev
+* 📫 xssanass@gmail.com
+* 🔗 https://www.linkedin.com/in/anass-zeroual-b248841b5/
+
