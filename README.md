@@ -9,6 +9,7 @@
 * Tools & Platforms: GitHub, Git, Linux, Prompt Engineering (AI)
 ## Key Projects 📚
 * [PDF Processing Toolkit](https://github.com/xSSanDev/PDF-Processing-Toolkit/tree/master): The PDF Processing Toolkit is a Python-based PDF processing toolkit designed to make managing and editing PDF files effortless. It offers many features, including splitting, merging, optimizing, rotating, rearranging, extracting text and images, encrypting/decrypting PDFs, and managing metadata.
+* [ FutureGrid Solutions](https://github.com/xSSanDev/company_webpage_project/tree/master?tab=readme-ov-file): A comprehensive full-stack web application built with Django 5 and Bootstrap 5, featuring a modern agency website with an integrated blog system.
 
 
 
