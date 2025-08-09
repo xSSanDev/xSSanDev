@@ -1,7 +1,7 @@
   # Hello, I'm ANASS ZEROUAL! 🚀
 
 ## About Me
-👋 Hi, I'm Anass - an ambitious student and emerging software engineer. I specialize in backend development using the Django framework, while also pursuing my studies in biotechnology.
+👋 Hi, I'm Anass - an ambitious student and emerging software engineer. I specialize in backend development using the Django framework, while also pursuing my studies in Agri-Food biotechnology.
 
 ## Technical Skills 🛠️
 * Languages: JavaScript, Python, C, MySQL
